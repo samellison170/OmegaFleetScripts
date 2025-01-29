@@ -1,2 +1,2 @@
-# OmegaFleet
-mobile game
+# OmegaFleetScripts
+mobile game scrpts
